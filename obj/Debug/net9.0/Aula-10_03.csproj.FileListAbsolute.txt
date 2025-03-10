@@ -1,0 +1,15 @@
+C:\Users\nicky\Desktop\LP\Aula-10_03\bin\Debug\net9.0\Aula-10_03.exe
+C:\Users\nicky\Desktop\LP\Aula-10_03\bin\Debug\net9.0\Aula-10_03.deps.json
+C:\Users\nicky\Desktop\LP\Aula-10_03\bin\Debug\net9.0\Aula-10_03.runtimeconfig.json
+C:\Users\nicky\Desktop\LP\Aula-10_03\bin\Debug\net9.0\Aula-10_03.dll
+C:\Users\nicky\Desktop\LP\Aula-10_03\bin\Debug\net9.0\Aula-10_03.pdb
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\Aula-10_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\Aula-10_03.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\Aula-10_03.AssemblyInfo.cs
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\Aula-10_03.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\Aula-10_03.sourcelink.json
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\Aula-10_03.dll
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\refint\Aula-10_03.dll
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\Aula-10_03.pdb
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\Aula-10_03.genruntimeconfig.cache
+C:\Users\nicky\Desktop\LP\Aula-10_03\obj\Debug\net9.0\ref\Aula-10_03.dll
